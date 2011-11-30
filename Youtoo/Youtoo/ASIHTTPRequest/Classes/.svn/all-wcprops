@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASINetworkQueue.h
+END
+ASIS3Request.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3Request.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIAuthenticationDialog.h
+END
+ASIS3ListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3ListRequest.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASINetworkQueue.m
+END
+ASIS3Request.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3Request.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIAuthenticationDialog.m
+END
+ASINSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASINSStringAdditions.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIFormDataRequest.h
+END
+ASIS3BucketObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3BucketObject.h
+END
+ASINSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASINSStringAdditions.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIHTTPRequestConfig.h
+END
+ASIS3BucketObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3BucketObject.m
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIInputStream.m
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIHTTPRequest.h
+END
+ASIS3ListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2621/ALN/trunk/Classes/ASIHTTPRequest/Classes/ASIS3ListRequest.h
+END

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+http://devsvn.jcmatch.com/ALN/trunk/Classes/Advertising
+http://devsvn.jcmatch.com
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aebb31f7-c2a2-4511-bb40-15a36cc9c982
+
+AdBackground.m
+file
+
+
+
+add
+
+ProfileController.m
+file
+
+
+
+add
+
+AdvModel.h
+file
+
+
+
+add
+
+AdvertisingController.xib
+file
+
+
+
+add
+
+AdvertisingBackground.h
+file
+
+
+
+add
+
+AdvModel.m
+file
+
+
+
+add
+
+AdvLine.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AdvertisingController.h
+file
+
+
+
+add
+
+AdBackground.h
+file
+
+
+
+add
+
+AdvertisingBackground.m
+file
+
+
+
+add
+
+ProfileController.h
+file
+
+
+
+add
+
+AdvLine.m
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AdvertisingController.m
+file
+
+
+
+add
+
